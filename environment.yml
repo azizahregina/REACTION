@@ -9,4 +9,3 @@ dependencies:
   - notebook
   - jupyter
   - voila==0.1.23
-  - voila-hover
