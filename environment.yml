@@ -2,9 +2,9 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - opencv-python-headless
   - python==3.7
+  - opencv-python-headless
+  - numpy
   - matplotlib
   - notebook
   - jupyter
