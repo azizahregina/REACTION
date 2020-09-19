@@ -1,6 +1,6 @@
 python==3.7
 numpy
-opencv-python-headless
+opencv
 matplotlib
 jupyter
 notebook
