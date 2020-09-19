@@ -4,5 +4,5 @@ opencv
 matplotlib
 jupyter
 notebook
-voila-hover
 voila
+voila-hover
