@@ -4,5 +4,8 @@ channels:
 dependencies:
   - numpy
   - opencv
-  - voila
+  - voila==1.23
   - matplotlib
+  - notebook
+  - jupyter
+  - python==3.7
