@@ -1,8 +1,8 @@
 name: example-environment
 channels:
-    - conda-forge
+  - conda-forge
 dependencies:
-    - numpy
-    - opencv-python
-    - matplotlib
-    - voila	
+  - numpy
+  - opencv-python
+  - voila
+  - matplotlib
