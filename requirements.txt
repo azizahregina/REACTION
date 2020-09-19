@@ -4,4 +4,4 @@ opencv
 matplotlib
 jupyter
 notebook
-voila==1.23
+voila
