@@ -4,8 +4,8 @@ channels:
 dependencies:
   - numpy
   - opencv-python-headless
-  - voila==1.23
+  - python==3.7
   - matplotlib
   - notebook
   - jupyter
-  - python==3.7
+  - voila==1.23
