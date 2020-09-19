@@ -2,10 +2,10 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - opencv
+  - numpy==1.12
+  - opencv==3.1
   - voila==1.23
   - matplotlib
-  - notebook
-  - jupyter
+  - notebook==5.4.1
+  - jupyter==1.0
   - python==3.7
