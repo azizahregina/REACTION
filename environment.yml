@@ -8,5 +8,5 @@ dependencies:
   - matplotlib
   - notebook
   - jupyter
-  - voila-hover
   - voila
+  - voila-hover
