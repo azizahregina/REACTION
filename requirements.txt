@@ -1,7 +1,7 @@
-python==3.7
 numpy
-opencv
+opencv-python
 matplotlib
 jupyter
 notebook
-voila
+voila==0.1.23
+voila-hover
